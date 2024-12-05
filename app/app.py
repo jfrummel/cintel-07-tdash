@@ -11,7 +11,7 @@ df = palmerpenguins.load_penguins()
 
 
 #Main page options
-ui.page_opts(title="Jeremy's Penguins dashboard", fillable=True)
+ui.page_opts(title="Penguin Interactive Dashboard", fillable=True)
 
 #sidebar with inputs and links
 with ui.sidebar(title="Filter controls"):
